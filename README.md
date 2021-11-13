@@ -1,9 +1,8 @@
-# The <Replace me> editor.
+# A Tldraw Extension Build Using vscode-editor
+Create your variant of the [Tldraw VS Code extension](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode).
 
-*Add your editor description here or explainer video here*
+### Usage
 
-*Make sure to include a market place icon* 
-
-*Add documentation here*
-
-*Make sure to add an issues page, documentation if you don't put it above, and point to repo if open source*
+ 1. `git clone`
+ 1. `yarn start`
+ 1. Open a .tldr file from the `examples` folder
