@@ -6,3 +6,4 @@ Create your variant of the [Tldraw VS Code extension](https://marketplace.visual
  1. `git clone`
  1. `yarn start`
  1. Open a .tldr file from the `examples` folder
+ 1. Now start customizing `editor/src` files
