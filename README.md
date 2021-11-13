@@ -15,5 +15,5 @@ Create your variant of the [Tldraw VS Code extension](https://marketplace.visual
    1. `yarn package`
    1. The installer will be created in the `out` folder
    1. People can then use the installer by going to the extension window and choosing `Install from VSIX...`
-     - <img src="docs/how-use-extension-installer.png"/>
+     - <img style="width:50%" src="docs/how-use-extension-installer.png"/>
   1. Coming soon: automated publishing to the Marketplace. For now you can use the workflow where you upload the .vsix installer file
